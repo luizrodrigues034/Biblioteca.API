@@ -1,0 +1,11 @@
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\bin\Debug\net8.0\Biblioteca.Core.deps.json
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\bin\Debug\net8.0\Biblioteca.Core.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\bin\Debug\net8.0\Biblioteca.Core.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.AssemblyInfoInputs.cache
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.AssemblyInfo.cs
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\refint\Biblioteca.Core.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\Biblioteca.Core.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Biblioteca.Core\obj\Debug\net8.0\ref\Biblioteca.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Bibiloteca.Aplication.deps.json
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Bibiloteca.Aplication.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Bibiloteca.Aplication.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.csproj.AssemblyReference.cache
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.AssemblyInfoInputs.cache
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.AssemblyInfo.cs
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\refint\Bibiloteca.Aplication.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibiloteca.Aplication.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\ref\Bibiloteca.Aplication.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Biblioteca.Core.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Biblioteca.Infra.dll
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Biblioteca.Core.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\bin\Debug\net8.0\Biblioteca.Infra.pdb
+C:\Users\luizr\source\repos\Biblioteca.API\Bibiloteca.Aplication\obj\Debug\net8.0\Bibilote.DDAB5F75.Up2Date
